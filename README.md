@@ -63,3 +63,13 @@ https://yhara.jp/LetsSplit_KeyCaps
 温度で変色するキーキャップ欲しい
 
 https://hidden-lab.com/page/thermochromic-keycap
+
+
+
+
+
+# キーマップ
+
+参照：HHKB
+
+https://www.pfu.fujitsu.com/hhkeyboard/leaflet/hairetu.html
