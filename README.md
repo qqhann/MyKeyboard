@@ -70,6 +70,10 @@ https://hidden-lab.com/page/thermochromic-keycap
 
 # キーマップ
 
+Mint60
+
+http://syonx.hatenablog.com/entry/2018/08/10/160947
+
 参照：HHKB
 
 https://www.pfu.fujitsu.com/hhkeyboard/leaflet/hairetu.html
