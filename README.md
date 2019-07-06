@@ -48,9 +48,13 @@ https://config.qmk.fm/#/mint60/LAYOUT
 
 きになるキーボード
 
-Orthodox
+### Orthodox
 
 https://cocopon.me/blog/2018/07/orthodox-build-log/
+
+### Zinc
+https://booth.pm/ja/items/1076720
+https://twitter.com/draonekj/status/1147357378506940418?s=12
 
 
 
